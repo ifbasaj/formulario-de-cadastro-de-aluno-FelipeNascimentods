@@ -1,0 +1,38 @@
+body {
+    margin-left: auto;
+    margin-right: auto;
+    width: 940px;
+}
+
+h1 {
+    background-image: url(sobre-background.jpg);
+}
+
+#rodape {
+    background-image: url(sobre-background.jpg);
+    height: 20px;
+}
+
+.text{
+    height: 10px;
+    width: 300px;
+}
+
+#enviar {
+    height: 30px;
+    margin-top: 30px;
+}
+
+
+input {
+    margin-bottom: 15px;
+}
+
+#cursos {
+    height: 30px;
+}
+
+#dtNascimento {
+    height: 25px;
+}
+
